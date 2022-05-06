@@ -1,6 +1,6 @@
 ### Hi, I'm Prince Kumar! 👋
 
-- 🔭 I’m currently working on ...
+- 🔭 I’m currently pursuing my Bachelor of Engineering from Army Institute Of Technology
 - 🌱 I’m currently learning ReactJs
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with making project 
